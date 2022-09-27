@@ -1,8 +1,8 @@
 # vsmo
 
-Revival of the Vector Surveillance and Management Ontology, sourced
-from https://code.google.com/archive/p/vector-surveillance-and-management-ontology/downloads
-under the New BSD License. This ontology was originally published accompanying:
+This repository revives the _Vector Surveillance and Management Ontology_,
+sourced from https://code.google.com/archive/p/vector-surveillance-and-management-ontology/downloads
+under the BSD-3-Clause License. This ontology was originally published accompanying:
 
 > [**Ontology for Vector Surveillance and Management**](https://pubmed.ncbi.nlm.nih.gov/23427646)
 > <br />Saul Lozano-Fuentes, Aritra Bandyopadhyay, Lindsay G Cowell, Albert Goldfain, and Lars Eisen
@@ -12,7 +12,9 @@ under the New BSD License. This ontology was originally published accompanying:
 [0.0.17 release](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/vector-surveillance-and-management-ontology/vsmo.0.17.obo).
 that can now be parsed with ROBOT.
 
-## Original README
+See additional information on the Bioregistry: https://bioregistry.io/vsmo
+
+## Original README Text
 
 Note on changes in the VSMO upper classes from the paper published in the
 Journal of Medical Entomology on the VSMO (Lozano-Fuentes et al.. 2013. Ontology
