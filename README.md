@@ -4,9 +4,9 @@ Revival of the Vector Surveillance and Management Ontology, sourced
 from https://code.google.com/archive/p/vector-surveillance-and-management-ontology/downloads
 under the New BSD License.
 
-`vsmo.obo` in this repository corresponds to the 0.0.17 release
-at https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/vector-surveillance-and-management-ontology/vsmo.0.17.obo.
-It does not currently parse with ROBOT.
+`vsmo.obo` in this repository corresponds to an updated version of the
+[0.0.17 release](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/vector-surveillance-and-management-ontology/vsmo.0.17.obo).
+that can now be parsed with ROBOT.
 
 ## Original README
 
