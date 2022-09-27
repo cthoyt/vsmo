@@ -2,7 +2,11 @@
 
 Revival of the Vector Surveillance and Management Ontology, sourced
 from https://code.google.com/archive/p/vector-surveillance-and-management-ontology/downloads
-under the New BSD License.
+under the New BSD License. This ontology was originally published accompanying:
+
+> [**Ontology for Vector Surveillance and Management**](https://pubmed.ncbi.nlm.nih.gov/23427646)
+> <br />Saul Lozano-Fuentes, Aritra Bandyopadhyay, Lindsay G Cowell, Albert Goldfain, and Lars Eisen
+> <br />[pubmed:23427646](https://pubmed.ncbi.nlm.nih.gov/23427646), [doi:10.1603/ME12169](https://doi.org/10.1603/ME12169)
 
 `vsmo.obo` in this repository corresponds to an updated version of the
 [0.0.17 release](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/vector-surveillance-and-management-ontology/vsmo.0.17.obo).
