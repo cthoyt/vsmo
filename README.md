@@ -14,6 +14,15 @@ that can now be parsed with ROBOT.
 
 See additional information on the Bioregistry: https://bioregistry.io/vsmo
 
+## Contributing
+
+Edit `vsmo.obo` and then the following commands can be used to sync the OWL and JSON files:
+
+```shell
+robot convert -i vsmo.obo -o vsmo.owl
+robot convert -i vsmo.obo -o vsmo.json
+```
+
 ## Original README Text
 
 Note on changes in the VSMO upper classes from the paper published in the
